@@ -5,4 +5,4 @@ My Personal Website.
 
 Created using Jekyll as a static site generator with GitHub Pages :octocat:
 
-Hat tip to https://github.com/t413/SinglePaged for giving me inspiration
+Hat tip to https://github.com/t413/SinglePaged for giving me basic footprint for the website structure.

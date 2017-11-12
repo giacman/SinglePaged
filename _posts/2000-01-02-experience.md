@@ -10,6 +10,15 @@ Companies I have worked for:
 - Flubit
 - AKQA
 
+
+My specialities are:
+
+- Data Team recruitment and Agile management
+- Product Analytics
+- Interactive visualisations
+- Storage and Workflow Architecture Design
+- Machine learning microservices research, design and deployment
+
 Technology I have used:
 
 - R (Shiny, tidyverse, data.table)
@@ -17,4 +26,4 @@ Technology I have used:
 - Luigi data workflow, Treasure Data 
 - Google Tag Manager, Google Analytics
 - MySQL, Hive, Presto, Mongo
-- Git
+- Shell, Git and Unix systems

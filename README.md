@@ -1,7 +1,7 @@
 My Personal Website.
 ======================
 
-[giacomovannucchi.me] (http://giacomovannucchi.me)
+[giacomovannucchi.me](http://giacomovannucchi.me)
 
 Created using Jekyll as a static site generator with GitHub Pages :octocat:
 
